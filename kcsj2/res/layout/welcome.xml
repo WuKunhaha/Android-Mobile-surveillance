@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <ImageView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/timg"
+        android:scaleType="fitXY"/>
+
+</LinearLayout>
+<!-- 先定义一个线性布局，在线性布局中添加必要组件 -->
+<!-- 再一次给布局和组件添加对应的属性并赋值 -->
+<!-- 界面三元素：组件名（绿色）+属性名（红色）+属性值（蓝色） -->
+<!-- android:orientation表示对齐方式： vertical垂直/horizontal水平-->
+<!-- android:layout_width/ layout_height:宽度/高度-->
+<!-- 宽度高度属性值：match_parent/fill_parent/warp_content -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhereAreYou</string>
+    <string name="action_settings">Settings</string>
+    <string name="TV_Text">请输入监控者的手机号码：</string>
+    <string name="ET_Hint">手机号码：159...</string>
+    <string name="FPL_BIN_Text">来电监控</string>
+	<string name="QPL_BIN_Text">去电监控</string>
+	<string name="MSG_BIN_Text">短信监控</string>
+	<string name="GN_BIN_Text">开启所选监控监控</string>
+</resources>
